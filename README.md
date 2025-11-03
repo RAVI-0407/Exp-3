@@ -6,15 +6,31 @@ To develop the Online Ticket Reservation System using Star UML tool.
 
 # PROBLEM STATEMENT:
 
-1.An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing passengers, particularly in the commercial airline, railway industries.
+## Step 1: Problem Identification
 
-2.An E-Ticket offers many advantages for both travelers and airline including security, flexibility and cost convenience. At the same time, it also provides the standard assurance of the traditional paper ticket, scaling choice, travel time options and other flexibilities.
+Manual railway operations such as ticket booking, train scheduling, and passenger management are slow and error-prone. The system aims to automate these processes for efficiency and accuracy.
 
-3.Passengers typically print out copies of their E-Ticket including confirmation E-mail and other document. All those documents can be replaced by pulling them out of the computer again and only a person with proper identification can actually use an E-Ticket.
+## Step 2: Requirement Analysis
 
-4.E-Ticket passengers can receive everything from gate assignments to cancellation or delay through E-mail, text messages sent to their home or business computers or to their cell phones.
+Users: Passenger, Admin, and Booking Clerk.  
+Main Functions: Train schedule management, ticket booking/cancellation, seat availability check, fare calculation, and report generation.  
+Non-Functional Needs: High reliability, data security, and user-friendly interface.    
 
-5.Finally, using E-Ticket is a more environmental friendly approach. The main purpose of the online bus ticket system is to provide another way for transnational customers to buy their tickets.
+## Step 3: System Design
+
+Draw UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
+Create database tables for Trains, Passengers, Tickets, and Schedules.    
+
+## Step 4: Implementation
+
+Develop modules using C / Java / Python / Web-based system.    
+Connect to MySQL/Oracle database for data storage.    
+Implement booking, cancellation, and schedule management features.    
+
+## Step 5: Testing
+
+Test each module for errors and performance.    
+Verify booking, seat allocation, and cancellation processes.    
 
 # UML DIAGRAMS:
 
