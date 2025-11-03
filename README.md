@@ -21,20 +21,10 @@ Non-Functional Needs: High reliability, data security, and user-friendly interfa
 Draw UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
 Create database tables for Trains, Passengers, Tickets, and Schedules.    
 
-## Step 4: Implementation
-
-Develop modules using C / Java / Python / Web-based system.    
-Connect to MySQL/Oracle database for data storage.    
-Implement booking, cancellation, and schedule management features.    
-
-## Step 5: Testing
-
-Test each module for errors and performance.    
-Verify booking, seat allocation, and cancellation processes.    
 
 # UML DIAGRAMS:
 
-## USE CASE:
+## USECASE:
 
 <img width="1037" height="900" alt="image" src="https://github.com/user-attachments/assets/11c060f9-9ffb-4076-9c04-058a281d1d17" />
 
