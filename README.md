@@ -34,8 +34,6 @@ Verify booking, seat allocation, and cancellation processes.
 
 # UML DIAGRAMS:
 
-# DIAGRAMS:
-
 ## USE CASE:
 
 <img width="1037" height="900" alt="image" src="https://github.com/user-attachments/assets/11c060f9-9ffb-4076-9c04-058a281d1d17" />
